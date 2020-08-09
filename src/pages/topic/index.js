@@ -42,10 +42,8 @@ const TitleHolder = styled.div`
   font-size: 2.4rem;
   font-weight: bold;
   text-align: center;
-  position: sticky;
   background: ${Color.white};
   z-index: 1;
-  top: 0;
   border-top-left-radius: 0.8rem;
   border-top-right-radius: 0.8rem;
 `;

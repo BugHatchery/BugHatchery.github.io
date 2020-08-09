@@ -38,4 +38,6 @@ export default class Color {
 
   static naver = '#03C63C'
   static kakao = '#FFE203'
+
+  static theme5 = '#af56aa';
 }
